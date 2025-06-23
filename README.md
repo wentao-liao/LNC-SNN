@@ -7,6 +7,7 @@ The code used for the neuromorphic dataset experiments is available at spikingje
 In this study, we propose a brain-inspired spiking neural network model based on the layered cortical circuitry to simulate the hierarchical information processing mechanisms of the biological neocortex.
 <div align=center><img src="ST.png" height=100% width=80%/>
 </div>
+
 ## Requirements
 `cupy==11.3.0; torch==1.10.2+cu113; spikingjelly==0.0.0.0.12;`
 
