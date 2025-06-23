@@ -13,4 +13,4 @@ The code used for the neuromorphic dataset experiments is available at spikingje
 
 | Model                | T      | CIFAR10-DVS Top-1 Acc |DVS-Gesture Top-1 Acc|
 | :---:                | :---:  |  :---:    |:---: |
-|ResNet19  | 4      | 98.0     |98.26  |
+|ResNet19  | 16      | 98.0     |98.26  |
