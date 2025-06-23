@@ -4,4 +4,4 @@ This repository is the official implementation of [LNC-SNN：A Brain-Inspired La
 The code used for the neuromorphic dataset experiments is available at spikingjelly.
 
 ## Requirements
-cupy==11.3.0; torch==1.10.2+cu113; spikingjelly==0.0.0.0.12;
+[cupy==11.3.0; torch==1.10.2+cu113; spikingjelly==0.0.0.0.12;]
