@@ -9,4 +9,4 @@ The code used for the neuromorphic dataset experiments is available at spikingje
 ## Main results on CIFAR10/CIFAR100
 | Model                | T      | CIFAR10 Top-1 Acc |CIFAR10-DVS Top-1 Acc|
 | :---:                | :---:  |  :---:    |:---: |
-| RevSResNet21  | 4      | 95.12     |78.60  |
+|ResNet19  | 4      | 95.12     |78.60  |
