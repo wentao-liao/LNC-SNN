@@ -9,7 +9,7 @@ In this study, we propose a brain-inspired spiking neural network model based on
 </div>
 
 The following is the structure figure.
-<div align=center><img src="ST.png" height=100% width=80%/>
+<div align=center><img src="structure.png" height=100% width=80%/>
 </div>
 
 ## Requirements
